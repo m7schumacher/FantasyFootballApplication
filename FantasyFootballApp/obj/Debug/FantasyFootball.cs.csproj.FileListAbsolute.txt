@@ -1,0 +1,124 @@
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.pdb
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.baml
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.g.cs
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\App.g.cs
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs_MarkupCompile.cache
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.g.resources
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe
+c:\users\matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.pdb
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.application
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.application
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\DraftAmount.baml
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\DraftAmount.g.cs
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\AddToOtherTeam.baml
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\AddToOtherTeam.g.cs
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\LeagueWindow.baml
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\LeagueWindow.g.cs
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\OptimalWindow.baml
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\OptimalWindow.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\PlayerEditor.baml
+C:\Users\Matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\PlayerEditor.g.cs
+C:\Users\Matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\SetupWindow.baml
+C:\Users\Matt\documents\visual studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\SetupWindow.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\App.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs_MarkupCompile.cache
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.g.resources
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.Properties.Resources.resources
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csproj.GenerateResource.Cache
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.config
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.manifest
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.application
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.pdb
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe.manifest
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.application
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.pdb
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.baml
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.g.cs
+D:\Users\Matt\Documents\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.config
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.application
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.pdb
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.baml
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\App.g.cs
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs_MarkupCompile.cache
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.g.resources
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.Properties.Resources.resources
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csproj.GenerateResource.Cache
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.application
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.pdb
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\WPFToolkit.dll
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\WPFToolkit.pdb
+C:\Users\mschuee\Desktop\Visual Studio 2013\Projects\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.config
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.pdb
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.application
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.pdb
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.baml
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\AddToOtherTeam.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\DraftAmount.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\LeagueWindow.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\MainWindow.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\OptimalWindow.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\PlayerEditor.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\SetupWindow.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\Menu.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\View\App.g.cs
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs_MarkupCompile.cache
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.g.resources
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.Properties.Resources.resources
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.csproj.GenerateResource.Cache
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.exe.manifest
+C:\Users\mschuee\Desktop\Old Laptop\FantasyFootball.cs\FantasyFootball.cs\obj\Debug\FantasyFootball.cs.application
